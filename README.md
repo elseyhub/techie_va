@@ -1,5 +1,5 @@
-Techie Virtual Assistant
-# Virtual Assistant Website
+
+# Techie Virtual Assistant Website
 
 ## Overview
 This is a professional Virtual Assistant website designed to showcase virtual assistant services, skills and  experience. The website helps potential clients learn about the services offered and easily get in touch for business inquiries.
